@@ -5,7 +5,7 @@ https://www.apress.com/gp/book/9781484254394 - Authors Work - This is a student 
 
 ## Chapter 9:!
 
-[SportsStore_pt3](https://user-images.githubusercontent.com/77302336/114110371-37909e00-988c-11eb-9b25-adf99c34e139.JPG)
+![image](https://user-images.githubusercontent.com/77302336/114110371-37909e00-988c-11eb-9b25-adf99c34e139.JPG)
 
 
 ## Chapter 8:
