@@ -3,6 +3,11 @@ This is a build of a demo MVC application utilizing my own personal taste on it.
 ## link
 https://www.apress.com/gp/book/9781484254394 - Authors Work - This is a student demo
 
+## Chapter 9:!
+
+[SportsStore_pt3](https://user-images.githubusercontent.com/77302336/114110371-37909e00-988c-11eb-9b25-adf99c34e139.JPG)
+
+
 ## Chapter 8:
 
 ### Filter and highlight Category:
